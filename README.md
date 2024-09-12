@@ -64,3 +64,18 @@
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/Soumyaghadei)]
 
 ⭐️ From [@Soumyaghadei](https://github.com/Soumyaghadei)
+
+<br/>
+<a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/python.png" align="right" height="200" /></a>
+  
+## Technologies :fire🔥🔥:
+- Data Analysis with **Python**.
+- Data Science.
+- Python.
+- Machine Learning
+- Deep Learning
+
+
+
+
+<img align="center" alt="Code gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding-freak.gif" width="100%" />
